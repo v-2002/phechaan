@@ -1,0 +1,17 @@
+#heading{
+    color: black;
+    text-decoration: underline ;
+}
+#login-button{
+    background-color: lightsteelblue ;
+    padding: 8px 18px;
+    border: none;
+    border-radius: 9px;
+    outline: none;
+}
+
+#login-button:hover{
+    background-color: mediumblue;
+    color: white;
+    cursor: pointer;
+}

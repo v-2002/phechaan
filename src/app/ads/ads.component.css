@@ -1,0 +1,15 @@
+#head{
+    color: black;
+    font-style: oblique;
+    font-size: 30px;
+}
+
+#poster{
+    display: block;
+    margin-top: 20px;
+    border: solid 2px black;
+}
+
+#writer{
+    color: rgb(145, 143, 140);
+}

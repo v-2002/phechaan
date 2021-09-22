@@ -1,0 +1,14 @@
+#signup{
+    color: black;
+    text-decoration: underline;
+}
+
+#signin-button{
+    background-color: lightblue;
+    padding: 8px 20px;
+    cursor: pointer;
+}
+#signin-button:hover{
+    background-color: blue;
+    color: white;
+}
